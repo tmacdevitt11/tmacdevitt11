@@ -14,7 +14,7 @@ __Programming Languages__: R (TidyVerse, caret, ggplot) , Python , SQL
 
 **Tools**: Excel (solver for optimization, pivot tables, xlookups) , Looker, Github, Jupytr Notebook, Jira
 
-**Soft Skills**: Time Management, Continuous learner, & High Emotional Intelligence
+**Soft Skills**: Time Management, Continuous Learner, & High Emotional Intelligence
 
 ## More about me
 
