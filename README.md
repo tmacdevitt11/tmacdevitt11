@@ -1,6 +1,6 @@
 ## Hi 👋 I'm [Tommy!](https://www.linkedin.com/in/twm11/) 
 
-I’m currently looking for opportunities to apply my skills and acumen in a data analyst role 📊. Most recently, I was a product manager at a wholesale building materials distributor. I graduated from Willamette University in ‘21 with my Master’s of Business Administration 🎓, and a certificate in data science 🔬, on top of my Bachelors ‘20 📜. I’ve always been a ‘why’ guy. I love gaining a deeper understanding of the world by using data to uncover latent insights to illuminate that ‘why’ 💡. **Check out my pinned repo’s to see some of my work.**
+I’m currently looking for opportunities to apply my skills and acumen in a data centered role 📊. Most recently, I was a product manager at a wholesale building materials distributor. I graduated from Willamette University in ‘21 with my Master’s of Business Administration 🎓, and a certificate in data science 🔬, on top of my Bachelors ‘20 📜. I’ve always been a ‘why’ guy. I love gaining a deeper understanding of the world by using data to uncover latent insights to illuminate that ‘why’ 💡. **Check out my pinned repo’s to see some of my work.**
 
 - Here's a link to my [resume!](https://docs.google.com/document/d/14QLQHABnVVaC3EqIFh9Hdjh6xwxSUZbcwj2gmTlTEaI/edit#)
 
